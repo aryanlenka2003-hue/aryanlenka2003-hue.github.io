@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: M.Tech Student, Production & Industrial Engineering, NIT Kurukshetra
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Kurukshetra, Haryana, India</p>
+    <p>aryanlenka2003@gmail.com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an M.Tech student in Production and Industrial Engineering at NIT Kurukshetra, Haryana. Before this, I completed my B.Tech in Mechanical Engineering at ITER, SOA University, Bhubaneswar.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+From October 2024 to March 2026, I worked as a Project Associate at CSIR-CMERI, where I conducted numerical investigations of hydrogen-ammonia blended combustion using CONVERGE CFD, and studied flow dynamics and alveolar mechanics in the human lung using computational modeling. My conference paper on optimizing Bezier curve nozzle design using genetic algorithms won the Best Paper Award at ICRAMERD 2024.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My interests lie at the intersection of combustion engineering, hydrogen energy systems, and computational fluid dynamics, along with advanced and non-conventional manufacturing processes such as CNC machining, wire-cut EDM, and rotary ultrasonic machining. I have hands-on experience with CAD/CAE tools including CATIA V5, SolidWorks, and ANSYS, alongside simulation work in CONVERGE CFD and ANSYS Fluent. Outside research, I've worked across a range of internships spanning aerospace manufacturing, technical documentation, and web development.
